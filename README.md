@@ -1,5 +1,7 @@
 # Principal Component Analysis (PCA)
 
+YouTube Link: https://github.com/skalaliya/PCA
+
 **Principal Component Analysis (PCA)** is a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components.
 
 ## How does PCA work?
